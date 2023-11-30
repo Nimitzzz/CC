@@ -14,7 +14,7 @@ class AnimationPage2 extends Component {
                <Lottie
                 options={defaultOptions}
                 height={400}
-                width={400}
+                width={350}
                />
             </div>
         )
