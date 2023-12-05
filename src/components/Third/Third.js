@@ -9,7 +9,9 @@ function App() {
     <div className="Thirdmbox">
     As interns, me and my co-intern, under the guidance of our mentor, programmed a Pull-Request Reviewer, leveraging the recent breakthrough in Deep Learning Techniques and LLMs.<br></br>
     <u>Purpose and Use case: Optimize the Product Development Cycle — A Genuine Industry Problem</u>
-    
+    <div className="workflowimg">
+    <img src={require("./workflow.webp")}/>
+    </div>
 
  </div>
 </div>
