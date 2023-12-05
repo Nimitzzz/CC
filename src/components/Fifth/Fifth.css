@@ -362,11 +362,14 @@ max-width: 100%;
     text-decoration: none;
   }
   @supports (-webkit-appearance:none) {
-    .circle {
-      width: 100%;
-      height:0px;
-      animation: pulse_3011 4s infinite;
+    #container-stars {
+      position: absolute;
       z-index: -1;
+      width: 0%;
+      height: 100%;
+      overflow: hidden;
+      transition: 0.5s;
+      backdrop-filter: blur(1rem);
+      border-radius: 5rem;
     }
-    
   }
