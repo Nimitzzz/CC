@@ -38,3 +38,8 @@
         padding: 0px;
     }
 }
+@supports (-webkit-appearance:none) {
+    body{
+        background-image: url('./stars.jpg');
+  }
+  }

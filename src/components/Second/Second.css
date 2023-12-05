@@ -60,3 +60,9 @@ justify-content: center;
         display: none;
     }
 }
+
+@supports (-webkit-appearance:none) {
+    body{
+        background-image: url('./stars.jpg');
+  }
+  }
