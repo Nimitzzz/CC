@@ -22,6 +22,7 @@
     font-family: 'Poppins', sans-serif;
     background-color: rgb(40, 40, 40);
     overflow-y: scroll;
+    overflow-x: hidden;
     border: 1px dotted white;
     border-radius: 30px;
     color: white;
