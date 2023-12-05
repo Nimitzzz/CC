@@ -28,6 +28,17 @@
     padding: 3%;
     font-size: medium;
 }
+.workflowimg{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#wkimg{
+    height: 50%;
+    width: 50%;
+}
 @media only screen and (max-width: 480px){
     .Thirdm{
         min-height: 100vh;
