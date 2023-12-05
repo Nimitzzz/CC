@@ -6,7 +6,7 @@ import AnimationPage3 from './AnimationPage3.jsx';
 function App() {
 
   return (
-<div className="Secondm">
+<div className="Secondm" id="Secondm">
 <div className="Secondmbox">
   <div className="anims">
 <AnimationPage2></AnimationPage2>

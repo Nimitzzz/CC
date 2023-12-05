@@ -4,7 +4,7 @@ import './Third.css';
 function App() {
 
   return (
-<div className="Thirdm">
+<div className="Thirdm" id="Thirdm">
     <div className="osh">Our Story.</div>
     <div className="Thirdmbox">
     Embarking on our deep learning internship journey at Yash Technologies on October 3 was nothing short of a fascinating dive into the realm of artificial intelligence. The initial month was an immersive experience, honing our understanding of intricate deep learning concepts and AI model architectures. The curriculum, neatly mapped out by the insightful guidance from aigents.co's deep learning roadmap (link embedded), navigated us through the intricacies of Neural Networks. From comprehending the nuances of loss and activation functions to unraveling the mathematical foundations and the mechanics of gradient descent (along with its optimized variants), the learning curve was steep yet incredibly rewarding. Delving into advanced architectures like transformers and their variants, as well as optimization techniques including padding, batch normalization, and regularization, laid a robust foundation for the exciting challenges that lay ahead in our internship journey. Looking forward to applying these newfound skills in real-world scenarios!

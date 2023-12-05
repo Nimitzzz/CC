@@ -23,10 +23,10 @@ function App() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link" href="/about-us">About us</a>
+          <a className="nav-link" href="/./#Secondm">About us</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="https://www.theopportunitiesportal.com/opportunities" target="/">Our story</a>
+          <a className="nav-link" href="/./#Thirdm">Our story</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="/./#users">Installation</a>
@@ -37,7 +37,7 @@ function App() {
       </ul>
     </div>
         <div className="joinbut">
-          <a className="joina" href="https://mzsw9vw3nyl.typeform.com/to/aewFiTGR" target="/">
+          <a className="joina" href="https://github.com/marketplace/actions/commit-crtiq" target="blank">
           <button class="bt"> Checkout!</button>
           </a>
         </div>
